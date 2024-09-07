@@ -8,19 +8,19 @@ The LOL Coding Club mobile application is designed to streamline the management 
 ## User Roles
 
 ### Admin
-![Admin](assets/admin.png)
+![Admin](assets/admin/home_page.png)
 - 👤 Registers committee members.
 - 👀 Oversees all tasks performed by committee members and students.
 
 ### Committee Members
-![Committee Members](assets/committee.png)
+![Committee Members](assets/admin/settings_page.png)
 - 📝 Create and manage their profiles.
 - Primary responsibilities include:
   - **Event Creation:** 🎉 Organize and detail events.
   - **Attendance Marking:** 📲 Use an encrypted QR code unique to each student for attendance tracking. The scanner is available to committee members, while the code is on the students' app. The scanner contains the student's membership information.
 
 ### Students
-![Students](assets/students.png)
+![Students](assets/members/setting_page.png)
 - 📅 Can view upcoming events.
 - 📚 Access notes and materials from previous events.
 - 🎟️ Events are free for club members; non-members are required to pay for event access.
@@ -29,12 +29,12 @@ The LOL Coding Club mobile application is designed to streamline the management 
 ## Features
 
 ### Admin Features
-![Admin Features](assets/admin_features.png)
+![Admin Features](assets/admin/home_page.png)
 - 🗂️ Register and manage committee members.
 - 📊 Monitor activities of both committee members and students.
 
 ### Committee Member Features
-![Committee Member Features](assets/committee_features.png)
+![Committee Member Features](assets/admin/event_details_page.png)
 - 🆔 Profile creation and management.
 - Event management:
   - **Create Events:** 🗓️ Add details such as event name, date, time, and location.
@@ -45,7 +45,7 @@ The LOL Coding Club mobile application is designed to streamline the management 
   - 📡 The scanner is available to committee members for attendance marking.
 -- **Download Attendance Records:** 📥 Students can download their attendance records in Excel format.
 ### Student Features
-![Student Features](assets/student_features.png)
+![Student Features](assets/members/details_page.png)
 - **Event Access:** 📆 View upcoming events and details.
 - **Event Materials:** 📑 Access notes and materials from past events.
 - **QR Code for Attendance:** 🏷️ Display unique QR code for attendance marking.
@@ -66,8 +66,8 @@ The LOL Coding Club mobile application is designed to streamline the management 
 - 📈 Integrate analytics for event participation and member engagement.
 
 ## Installation
-1. [Download Admin App](#) 📥
-2. [Download Student and Committee Members App](#) 📥
+1. [Download Admin App](apk/app-release-admin-1_0_2.apk) 📥
+2. [Download Student and Committee Members App](apk/app-release-members-1_0_3.apk) 📥
 3. Install the application and create your profile. 🆔
 4. All set! Enjoy. 🎉
 
