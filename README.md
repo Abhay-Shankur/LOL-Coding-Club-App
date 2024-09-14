@@ -67,7 +67,7 @@ The LOL Coding Club mobile application is designed to streamline the management 
 
 ## Installation
 1. [Download Admin App](apk/app-release-admin-1_0_2.apk) 📥
-2. [Download Student and Committee Members App](apk/app-release-members-1_0_3.apk) 📥
+2. [Download Student and Committee Members App](apk/app-release-students-1_0_4.apk) 📥
 3. Install the application and create your profile. 🆔
 4. All set! Enjoy. 🎉
 
