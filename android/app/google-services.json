@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "662823764830",
+    "project_id": "lol-club-app-d1538",
+    "storage_bucket": "lol-club-app-d1538.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:662823764830:android:637a81280d65c136be05cf",
+        "android_client_info": {
+          "package_name": "com.lolclubwit.admin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnPj6FyrmlgXbEZYjToN4MjvbQaQMNFwQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:662823764830:android:d4c793d1ead19cfbbe05cf",
+        "android_client_info": {
+          "package_name": "com.lolclubwit.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnPj6FyrmlgXbEZYjToN4MjvbQaQMNFwQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
